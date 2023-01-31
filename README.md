@@ -1,4 +1,4 @@
-# carolal-
+# carolal
 <h1 align="center">Hi 👋, I'm a Developing Data Engineer</h1>
 <h3 align="center">Fervent believer in Data and in humanity</h3>
 
