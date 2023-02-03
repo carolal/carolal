@@ -1,6 +1,6 @@
 # carolal
 <h1 align="center">Hi 👋, I'm a Junior Data</h1>
-<h3 align="center">Fervent believer in Data and in humanity</h3>
+<h3 align="center">Scientific research assistant, with experience in databases and R, preparing me as a Health Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolal&label=Profile%20views&color=0e75b6&style=flat" alt="carolal" /> </p>
 
